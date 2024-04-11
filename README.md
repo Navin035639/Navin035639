@@ -45,7 +45,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=navin035639&show_icons=true&locale=en&layout=compact" alt="navin035639" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=navin035639&show_icons=true&locale=en" alt="navin035639" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=navin035639&show_icons=true&locale=en" alt="navin035639" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=navin035639&" alt="navin035639" /></p>
 
