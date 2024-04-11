@@ -43,9 +43,9 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
  </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=navin035639&show_icons=true&locale=en&layout=compact" alt="navin035639" /></p><br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=navin035639&show_icons=true&locale=en&layout=compact" alt="navin035639" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=navin035639&show_icons=true&locale=en" alt="navin035639" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=navin035639&show_icons=true&locale=en" alt="navin035639" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=navin035639&" alt="navin035639" /></p>
 
