@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Navinkumar Chaurasiya</h1>
 <h3 align="center">A Passaionate Web & Android Developer from India</h3>
 
-<img align="right" alt="codingwithme" width="400" src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif">
+<img align="right" alt="codingwithme" width="400" src="[https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif](https://user-images.githubusercontent.com/66934377/223913733-deb1d974-787d-43c4-b60d-eff538aa161e.gif)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=navin035639&label=Profile%20views&color=0e75b6&style=flat" alt="navin035639" /> </p>
 
